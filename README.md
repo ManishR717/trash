@@ -1,1 +1,2 @@
 # trash
+TRASH DETECTION
